@@ -58,16 +58,16 @@ a:hover {
 
 .texto_branco {
     padding: 80px 40px;
-    font-size: 4vw;
+    font-size: 5vw;
     
 }
 
 .texto_imagem {
     background-color: rgba(0, 0, 0, 0.5);
     padding: 10px;
-    font-size: 4vw;
+    font-size: 5vw;
     color: white;
-    width: 50vw;
+    width: 60vw;
 }
 
 footer {
