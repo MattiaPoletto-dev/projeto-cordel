@@ -1,2 +1,1 @@
-# projeto-cordel
- Projeto feito no Curso em Vídeo sobre uma poesia de Milton Duarte
+Acesse o site: https://mattiapoletto-dev.github.io/projeto-cordel/
